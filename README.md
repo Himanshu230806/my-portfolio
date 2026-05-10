@@ -91,16 +91,6 @@ A Python tool for capturing and analyzing network packets in real-time — detec
 - **Stack:** Python · Scapy · Wireshark
 - **Repo:** [github.com/Himanshu230806](https://github.com/Himanshu230806)
 
-### 3. CTF Challenge Writeups
-Documented solutions from Capture The Flag competitions — covering web exploitation, cryptography, reverse engineering, and forensics.
-- **Stack:** Web Exploit · Crypto · Forensics
-- **Repo:** [github.com/Himanshu230806](https://github.com/Himanshu230806)
-
-### 4. Personal Portfolio v2
-This very portfolio with terminal aesthetic, animations, and responsive design.
-- **Stack:** React · Tailwind · Vite
-- **Repo:** [github.com/Himanshu230806](https://github.com/Himanshu230806)
-
 ---
 
 ## 🧰 Skills
@@ -119,13 +109,6 @@ This very portfolio with terminal aesthetic, animations, and responsive design.
 ## 🌐 Deployment
 
 This portfolio is deployed on **Vercel** as a static site.
-
-To deploy your own copy:
-
-1. Clone or download this repository
-2. Make sure the file is named `index.html`
-3. Place `index.html` and `image (2).jpeg` in the same folder
-4. Drag the folder to [app.netlify.com/drop](https://app.netlify.com/drop) **or** push to GitHub and connect to Vercel
 
 ---
 
